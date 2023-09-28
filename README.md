@@ -1,3 +1,9 @@
-# Sample Hardhat Project
+# NFT-Gating Website 
+This is NFT Gated Website Which Checks if you are having particular NFT and If You Have then it gave you access to secret Content otherwise Not . I have Just Made only bare minimum strusture IN future I will Merge NFT Gating + NFT Drop And make one Full Dapp . 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract. This is project I am trying to NFT Based Authentication System for the users and Owners 
+# Tech Stack Used
+- ViteJs with Reactjs
+- Thirdweb Smart Contracts
+- NFT
+- ERC721
+- Solidity
